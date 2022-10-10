@@ -1,4 +1,4 @@
-package com.greatlearning.iitr.dsa.labsession2.question2;
+package com.dsa.labalgo2.question2;
 
 import java.util.Arrays;
 import java.util.Collections;

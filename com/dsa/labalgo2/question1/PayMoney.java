@@ -1,4 +1,4 @@
-package com.greatlearning.iitr.dsa.labsession2.question1;
+package com.dsa.labalgo2.question1;
 
 import java.util.Scanner;
 
@@ -30,6 +30,7 @@ public class PayMoney {
 		}
 
 
+		
 		System.out.print("Enter the total no of targets that needs to be achieved: ");
 		//input for no. of target
 		int targetNO = sc.nextInt();
